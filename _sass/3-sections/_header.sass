@@ -6,15 +6,24 @@ header
   padding: 0 30px
 
   .logo
+    display: flex
+    align-items: center
     margin: 0
     font:
       size: 30px
       weight: 700
     a
-      display: inline-block
+      display: flex
+      align-items: center
       color: rgba(0,0,0,1)
+      text-decoration: none
       &:hover
         color: $accent-color
+
+    .header-logo
+      width: 30px // Adjust size as needed for your SVG
+      height: auto
+      margin-right: 10px // Space between the logo image and the text
 
   nav
     margin: 0

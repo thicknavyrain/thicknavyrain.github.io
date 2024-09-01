@@ -1,6 +1,8 @@
 <header>
   <div class="logo">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/">
+      <img src="{{ site.url }}/assets/img/Shout.svg" alt="Logo" class="header-logo">
+      {{ site.title }}</a>
   </div>
   <nav>
     {% for item in site.data.settings.menu %}

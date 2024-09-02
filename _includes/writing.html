@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<section>
+  <div class="writing-container">
+    {% for project in site.data.writing %}
+      <a href="{{ project.link }}" target="_blank">
+        <div class="writing-unit" style="background-image: url({{ project.thumbnail }})">
+          <div class="writing-overlay">
+            <strong>{{ project.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <p>{{ project.description }}</p>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

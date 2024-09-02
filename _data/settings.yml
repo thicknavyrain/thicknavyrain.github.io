@@ -2,9 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Writing',  url: 'writing'}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'Writing',  url: 'writing'}
+- {name: 'Projects', url: ''}
+- {name: 'Publications', url: ''}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 

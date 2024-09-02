@@ -1,0 +1,16 @@
+- title: 'The Electric Light Bulb Was Invented Centuries Before Edison'
+  link: 'https://www.youtube.com/watch?v=5_pGeoUesqA'
+  thumbnail: 'https://img.youtube.com/vi/5_pGeoUesqA/hqdefault.jpg'
+  description: 'Brief description of Project One'
+
+- title: 'Why It Was Almost Impossible to Make the Blue LED'
+  link: 'https://www.youtube.com/watch?v=AF8d72mA41M'
+  thumbnail: 'https://img.youtube.com/vi/AF8d72mA41M/hqdefault.jpg'
+  description: 'Brief description of Project Two'
+
+- title: 'We Finally Made Synthetic Spider Silk'
+  link: 'https://www.youtube.com/watch?v=rLtOcr6gMaQ'
+  thumbnail: 'https://img.youtube.com/vi/rLtOcr6gMaQ/hqdefault.jpg'
+  description: 'Brief description of Project Three'
+
+# Add more projects here...
